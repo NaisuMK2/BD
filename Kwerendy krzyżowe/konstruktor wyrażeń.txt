@@ -1,0 +1,4 @@
+1/ Kwerenda pokaże rok, miesiąc dzień zatrudnienia pracownika
+2/Kwerenda pokaże premię w zł dla pracownika
+3/ kwerenda wyświetli liczbe lat w przybliżeniu
+4/ kwerenda wyświetli dokladnie obliczoną liczbę przepracowanych lat
