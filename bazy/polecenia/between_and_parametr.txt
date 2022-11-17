@@ -1,0 +1,22 @@
+ZAMEK
+1. Stwórz kwerendę która zapyta o wydarzenie i pokaże eksponaty z nim związane
+2. Stwórz kwerendę, która zapyta o zespół i pokaże eksponaty pod jego opieką
+3. Stwórz kwerendę, która zapyta o salę i pokaże autorów z tej sali
+4. Pokaż eksponaty z 14 wieku
+
+PRACA/Płace
+1. Stwórz kwerendę, która zapyta o dział i pokaże pracowników z niego
+2.  Stwórz kwerendę, która zapyta o siedzibę i pokaże pracowników z niego
+3.  Stwórz kwerendę, która zapyta o nazwisko i pokaże pracowników 
+4. Stwórz kwerendę, która pokaże pracowników zatrudnionych w 1 kwartale 1996
+5. Stwórz kwerendę, która pokaże pracowników zatrudnionych wlutym 1998
+6. Stwórz kwerendę, która pokaże pracowników zatrudnionych w 2 półroczu 1999
+7. Stwórz kwerendę, która pokaże pracowników zatrudnionych w 3 kwartale 1996
+8. Pokaż pracowników z pensją pomiędzy 1100 a 1250
+9. POkaż pracowników z premią pomiędzy 0,03 a 0,07
+10. Pokaż pracowników z pensją pomiędzy 1300 a 1400 zatrudnionych w 1996 roku
+
+
+
+
+

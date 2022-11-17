@@ -1,0 +1,14 @@
+P³ace
+1. kwerenda podliczy iloœæ pracowników dla stanowisk
+2. kwerenda podliczy iloœæ pracowników dla dzia³u
+3. kwerenda podliczy iloœæ pracowników dla siedziby i dla dzia³u (podwójne grupowanie)
+4. kwerenda poda œredni¹, minimaln¹ i maksymaln¹ pensjê zasadnicz¹ dla siedziby
+5. kwerenda poda œredni¹, minimaln¹ maksymaln¹ premiê dla stanowiska
+
+SLilka/cukierki
+
+1. Kwerenda zliczy iloœæ zamówieñ do poszczególnych krajów
+2. Kweredna poda kwotê zamówieñ dla ka¿dego klienta
+3.Kwerenda zliczy iloœæ cukierków w ka¿dej bombonierce (pude³ku) oraz sumê cen tych cukierków
+4.Kwerenda poda iloœæ zamówieñ dla bombonierek
+5. Kwerenda poda iloœæ zamówieñ w poszczególnych latach 

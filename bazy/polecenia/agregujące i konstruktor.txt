@@ -1,0 +1,8 @@
+1. Utwórz kwerendę podstawową: idpracownika, imie, nazwisko, data zatrudnienia, pensja zasadnicza, premia w zł, stanowisko dział i siedziba
+
+Na podstawie kwerendy podstawowej utwórz:
+2. Kwerend wyświetli liczbę pracowników zatrudnionych w danym roku
+3. Kwerenda wyświetli sumę premi w zł dla stanowisk
+4. Kwerenda wyświetli najwyższą, najniższą i średnią pensję brutto da siedziby
+5. Kwerenda wyświetli rozpiętość brutto dla działu
+6. Kwerenda wyświetli różnicę między średnią pensją dla siedziby a brutto pracownika

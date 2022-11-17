@@ -1,0 +1,13 @@
+1. Wykonaj nastêpuj¹ce kwerendy:
+
+- wyszukaj pracowników z nazwiskiem na B
+- Wyszukaj dzia³y z Krakowa
+- wyszukaj pracowników z nazwiskiem koñcz¹cym siê na ski i imieniem na A
+- Kwerenda wyœwietli pracowników którzy w nazwisku maj¹ literkê T
+- Kwerenda wyœwietli pracowników, którzy s¹ ksiêgowymi w Krakowie lub Lublinie
+
+cz2
+- Kwerenda wyœwietli informatyków z pensj¹ powy¿ej 1400
+- Kwerenda wyœwietli pracowników z  Warszawy pogrupowanych wg dzia³ów alfabetycznie nazwiskami
+- Kwerenda wyœwietli pracowników z nazwiskiem na A, którzy s¹ z Krakowa lub Kielc
+- Kwerenda wyœwietli pracowników posortowanych wg stanowiska.
