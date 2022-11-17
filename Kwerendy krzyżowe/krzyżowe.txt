@@ -1,0 +1,18 @@
+S. Lilka
+1. Kwerenda poka¿e liczbe cukierków w pude³ku
+2. Kwerenda poka¿e sumê zamówieñ pude³ek wg krajów
+3. Kwerenda poka¿e kwotê zamówieñ pude³ek wg krajów (uwaga najpierw kwerenda)
+4. Kwerenda poka¿e liczbê zamówieñ do kraju os³u¿onych przez pracownika
+5. Kwerenda poka¿e liczbê zamówieñ do kraju os³u¿onych przez przewoŸnika
+6. Kwerenda poka¿e œredni¹ kwotê zamówienia dla bombonierki i kraju
+
+P³ace
+1. Kwerenda poka¿e liczbê pracowników w dziale i siedzibie
+2. Kwerenda poka¿e liczbê pracowników na stanowisku i siedzibie
+3. Kwerenda poka¿e œredni¹ premiê w z³ w dziale i siedzibie
+4. Kwerenda poka¿e œredni¹ premiê w z³ w siedzibie wg stanowisk
+5. Kwerenda poka¿e maksymaln¹ pensjê brutto w z³ w dziale i siedzibie
+6. Kwerenda poka¿e sumê brutto dla dzia³u i siedziby
+7. Kwerenda poka¿e liczbê pracowników wg lat zatrudnienia i siedziby
+8. Kwerenda poka¿e liczbê pracowników wg lat zatrudnienia i stanowiska
+
